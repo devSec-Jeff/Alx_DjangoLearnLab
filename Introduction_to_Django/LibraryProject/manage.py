@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/env python3
-
+=======
 #!/usr/bin/env python
-
+>>>>>>> c79c975 (Creating apps in Django)
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
